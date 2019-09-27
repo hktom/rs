@@ -1,4 +1,4 @@
-﻿#rs is tiny css library, that can be associate with others css library like bootsrap to build a website very fast. its features are: 
+﻿#rs is tiny css library, that can be associate with others css library like bootsrap to build a website very fast. its features are:
 *you can set margin from 1 to 100 in pexel and pourcentage, you can set pading from 1 to 100 in pexel and pourcentage, you can set width and height from 1 to 100 pourcentage, you can set height from 1 to 500 pexels, you can set width and height depending on screen size, you can set font-size from 0em to 6em, you can set text styling, you can set border radius, you can set image style, you can float an element, you can choose a cursor, you can choose color, background-color, buton color.
 you can use boostrap color and call rs color library.
 
@@ -31,5 +31,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-[Oncebot](https://oncebot.com)
